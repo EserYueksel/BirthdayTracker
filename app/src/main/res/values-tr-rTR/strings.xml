@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Birthday Tracker</string>
+    <string name="january">Ocak</string>
+    <string name="february">Şubat</string>
+    <string name="march">Mart</string>
+    <string name="april">Nisan</string>
+    <string name="may">Mayıs</string>
+    <string name="june">Haziran</string>
+    <string name="july">Temmuz</string>
+    <string name="august">Ağustos</string>
+    <string name="september">Eylül</string>
+    <string name="october">Ekim</string>
+    <string name="november">Kasım</string>
+    <string name="december">Aralık</string>
+    <string name="greeting">Merhaba %1$s %2$s</string>
+    <string name="output">%1$d gün sonra doğum günün</string>
+    <string name="nachname_eingabe">Ad</string>
+    <string name="vorname_eingabe">Soyad</string>
+    <string name="calculate_button">hesapla</string>
+</resources>
