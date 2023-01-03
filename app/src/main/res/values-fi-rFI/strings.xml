@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Syntymäpäiväseuranta</string>
+    <string name="greeting">Terve %1$s %2$s</string>
+    <string name="output">syntymäpäiväsi on %1$d päivän päästä!</string>
+    <string name="december">Joulukuu</string>
+    <string name="november">Marraskuu</string>
+    <string name="october">Lokakuu</string>
+    <string name="september">Syyskuu</string>
+    <string name="august">Elokuu</string>
+    <string name="july">Heinäkuu</string>
+    <string name="january">Tammikuu</string>
+    <string name="february">Helmikuu</string>
+    <string name="march">Maaliskuuta</string>
+    <string name="april">Huhtikuu</string>
+    <string name="may">Saattaa</string>
+    <string name="june">Kesäkuuta</string>
+    <string name="vorname_eingabe">Etunimi</string>
+    <string name="nachname_eingabe">Sukunimi</string>
+    <string name="calculate_button">laskea</string>
+</resources>
